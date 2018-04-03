@@ -1,0 +1,8 @@
+C:\Users\DRamirez\Documents\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\DRamirez\Documents\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\DRamirez\Documents\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+C:\Users\DRamirez\Documents\Visual Studio 2013\Projects\ejercicio_3\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\DRamirez\Documents\Visual Studio 2013\Projects\ejercicio_3\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\DRamirez\Documents\Visual Studio 2013\Projects\ejercicio_3\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+C:\Users\DRamirez\Documents\Visual Studio 2013\Projects\ejercicio_3\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+C:\Users\DRamirez\Documents\Visual Studio 2013\Projects\ejercicio_3\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
